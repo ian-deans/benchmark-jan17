@@ -1,0 +1,15 @@
+{
+  "name": "benchmark-jan17",
+  "version": "1.0.0",
+  "description": "Benchmark project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fryymann715/benchmark-jan17.git"
+  },
+  "author": "ideans",
+  "license": "MIT"
+}
