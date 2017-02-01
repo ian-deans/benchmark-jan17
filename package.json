@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "numberguess": "babel-node guess_the_number.js"
+    "numberguess": "babel-node spec_1/guess_the_number.js",
+    "scrab-bag": "babel-node spec_2/scrabble.js",
+    "string-indexer": "babel-node spec_3/string_indices.js"
   },
   "repository": {
     "type": "git",
