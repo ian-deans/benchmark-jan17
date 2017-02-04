@@ -1,0 +1,24 @@
+{
+  "name": "benchmark-jan17",
+  "version": "1.0.0",
+  "description": "Benchmark project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "numberguess": "babel-node spec_1/guess_the_number.js",
+    "scrab-bag": "babel-node spec_2/scrabble.js",
+    "string-indexer": "babel-node spec_3/string_indices.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fryymann715/benchmark-jan17.git"
+  },
+  "author": "ideans",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-core": "^6.22.1",
+    "babel-preset-latest": "^6.22.0",
+    "readline-sync": "^1.4.5"
+  }
+}
